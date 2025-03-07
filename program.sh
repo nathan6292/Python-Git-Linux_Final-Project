@@ -18,7 +18,17 @@ companies=(
 )
 
 # Ajouter le titres des colonnes du csv
-echo "Entreprise,Prix" > "$output_file"
+for ((i=0; i<${#companies[@]}; i++)); do
+    company="${companies[$i]}"
+    # Si ce n'est pas le dernier élément, ajouter une virgule
+    if [ $i -ne $((${#companies[@]} - 1)) ]; then
+        echo -n "$company," >> "$output_file"
+    else
+        echo "$company" >> "$output_file"  # Dernier élément sans virgule
+    fi
+done
+
+echo "" >> "$output_file"
 
 # Parcours de la liste et extraction du prix pour chaque société
 for company in "${companies[@]}"; do
@@ -29,5 +39,5 @@ for company in "${companies[@]}"; do
     clean_price=$(echo "$price" | tr -d '.' | tr ',' '.')
 
     # Ajouter les résultats au fichier CSV
-    echo "$company,$clean_price" >> "$output_file"
+    echo -n "$clean_price," >> "$output_file"
 done
