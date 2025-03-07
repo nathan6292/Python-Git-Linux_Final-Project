@@ -18,7 +18,7 @@ companies=(
 )
 
 # Ajouter le titres des colonnes du csv
-echo "Entreprise,Prix" >> "$output_file"
+echo "Entreprise,Prix" > "$output_file"
 
 # Parcours de la liste et extraction du prix pour chaque société
 for company in "${companies[@]}"; do
