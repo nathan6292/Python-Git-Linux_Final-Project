@@ -17,23 +17,28 @@ companies=(
   "Vinci"
 )
 
-echo -n "Date," >> "$output_file"
+if [ ! -s "$output_file" ]; then
+	echo -n "Date," >> "$output_file"
 
-# Ajouter le titres des colonnes du csv
-for ((i=0; i<${#companies[@]}; i++)); do
-    company="${companies[$i]}"
-    # Si ce n'est pas le dernier élément, ajouter une virgule
-    if [ $i -ne $((${#companies[@]} - 1)) ]; then
-        echo -n "$company," >> "$output_file"
-    else
-        echo "$company" >> "$output_file"  # Dernier élément sans virgule
-    fi
-done
+	# Ajouter le titres des colonnes du csv
+	for ((i=0; i<${#companies[@]}; i++)); do
+    		company="${companies[$i]}"
+    		# Si ce n'est pas le dernier élément, ajouter une virgule
+    		if [ $i -ne $((${#companies[@]} - 1)) ]; then
+        		echo -n "$company," >> "$output_file"
+    		else
+        		echo "$company" >> "$output_file"  # Dernier élément sans virgule
+    		fi
+	done
+fi
 
 echo -n $(date +"%Y-%m-%d %H:%M:%S,") >> "$output_file" 
 
 # Parcours de la liste et extraction du prix pour chaque société
-for company in "${companies[@]}"; do
+for ((i=0; i<${#companies[@]}; i++)); do
+
+    company="${companies[$i]}"
+
     # Recherche dans le contenu du fichier : la balise qui contient le prix est précédée par data-label="Aktuell"
     price=$(echo "$file" | grep -A 2 "$company" | grep -oP '(?<=data-label="Aktuell">)[0-9.]+,[0-9]+')
 
@@ -41,5 +46,10 @@ for company in "${companies[@]}"; do
     clean_price=$(echo "$price" | tr -d '.' | tr ',' '.')
 
     # Ajouter les résultats au fichier CSV
-    echo -n "$clean_price," >> "$output_file"
+    if [ $i -ne $((${#companies[@]} - 1)) ]; then
+        echo -n "$clean_price," >> "$output_file"
+    else
+        echo -n "$clean_price" >> "$output_file"  # Dernier élément sans virgule
+    fi
+ 
 done
