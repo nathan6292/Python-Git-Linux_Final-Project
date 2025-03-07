@@ -53,3 +53,5 @@ for ((i=0; i<${#companies[@]}; i++)); do
     fi
  
 done
+
+echo "" >> "$output_file"
