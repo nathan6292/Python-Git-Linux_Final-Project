@@ -17,6 +17,8 @@ companies=(
   "Vinci"
 )
 
+echo -n "Date," >> "$output_file"
+
 # Ajouter le titres des colonnes du csv
 for ((i=0; i<${#companies[@]}; i++)); do
     company="${companies[$i]}"
@@ -28,7 +30,7 @@ for ((i=0; i<${#companies[@]}; i++)); do
     fi
 done
 
-echo "" >> "$output_file"
+echo -n $(date +"%Y-%m-%d %H:%M:%S,") >> "$output_file" 
 
 # Parcours de la liste et extraction du prix pour chaque société
 for company in "${companies[@]}"; do
