@@ -17,9 +17,12 @@ companies=(
   "Vinci"
 )
 
+# Ajouter le titres des colonnes du csv
+echo "Entreprise,Prix" >> "$output_file"
+
 # Parcours de la liste et extraction du prix pour chaque société
 for company in "${companies[@]}"; do
-    # Recherche dans le contenu du fichier (la variable $file) : on suppose que la balise contenant le prix est précédée par data-label="Aktuell"
+    # Recherche dans le contenu du fichier : la balise qui contient le prix est précédée par data-label="Aktuell"
     price=$(echo "$file" | grep -A 2 "$company" | grep -oP '(?<=data-label="Aktuell">)[0-9.]+,[0-9]+')
 
     # Nettoyage du prix : supprimer les points pour les milliers et remplacer la virgule par un point
