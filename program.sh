@@ -1,7 +1,8 @@
 #!/bin/bash
+echo "Lancement du program"
 
 # Chemin du fichier CSV de sortie
-output_file="prices.csv"
+output_file="/home/azureuser/Python-Git-Linux_Final-Project/prices.csv"
 
 # Récupérer le contenu du fichier HTML à partir de l'URL
 file=$(curl -s "https://www.comdirect.de/inf/indizes/werte/FR0003500008")
@@ -18,6 +19,7 @@ companies=(
 )
 
 if [ ! -s "$output_file" ]; then
+	echo "" > "$output_file"
 	echo -n "Date," >> "$output_file"
 
 	# Ajouter le titres des colonnes du csv
@@ -55,3 +57,9 @@ for ((i=0; i<${#companies[@]}; i++)); do
 done
 
 echo "" >> "$output_file"
+
+
+# Lancement du dash
+
+source /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/activate
+sudo /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/python /home/azureuser/Python-Git-Linux_Final-Project/python_code.py

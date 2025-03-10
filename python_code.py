@@ -38,7 +38,7 @@ app.layout = dbc.Container([
 )
 def mettre_a_jour_prix(n):
     try:
-        df = lire_csv('prices.csv')  # Charger le CSV
+        df = lire_csv('/home/azureuser/Python-Git-Linux_Final-Project/prices.csv')  # Charger le CSV
         df['Date'] = pd.to_datetime(df['Date'])  # Convertir en format datetime
 
         derniere_ligne = df.iloc[-1]  # Derniers prix disponibles
@@ -78,7 +78,7 @@ def mettre_a_jour_prix(n):
 )
 def mettre_a_jour_graphique(n):
     try:
-        df = lire_csv('prices.csv')
+        df = lire_csv('/home/azureuser/Python-Git-Linux_Final-Project/prices.csv')
         df['Date'] = pd.to_datetime(df['Date'])
 
         df_melted = df.melt(id_vars=['Date'], var_name='Entreprise', value_name='Prix')
@@ -98,4 +98,4 @@ def mettre_a_jour_graphique(n):
 
 # Exécuter l'application
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8052)
+    app.run_server(debug=True, port=80, host='0.0.0.0')
