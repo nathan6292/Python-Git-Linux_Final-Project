@@ -30,3 +30,5 @@
 # Pendant les horaire de fermeture, l'application reste disponible mais la data n'est pas actualisé car les prix ne bougent plus. 
  
 */5 9-18 * * 1-5 export PATH=$PATH:/usr/local/bin && /bin/bash /home/azureuser/Python-Git-Linux_Final-Project/program.sh >> /home/azureuser/Python-Git-Linux_Final-Project/log.txt
+
+0 20 * * 1-5 export PATH=$PATH:/usr/local/bin && /bin/bash /home/azureuser/Python-Git-Linux_Final-Project/report.sh >> /home/azureuser/Python-Git-Linux_Final-Project/log.txt
