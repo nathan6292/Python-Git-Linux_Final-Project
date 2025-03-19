@@ -57,4 +57,4 @@ echo "$price_cac40" >> "$output_file"
 # Lancement du dash
 
 source /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/activate
-sudo /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/python /home/azureuser/Python-Git-Linux_Final-Project/python_code.py
+sudo /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/python /home/azureuser/Python-Git-Linux_Final-Project/dash_app.py

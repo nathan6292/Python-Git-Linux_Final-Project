@@ -422,7 +422,7 @@ class CAC40Report:
         html = Template(template).render(**template_data)
         
         # Sauvegarder le rapport
-        output_path = f"daily_report/report_{date.strftime('%Y-%m-%d')}.html"
+        output_path = f"/home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_{date.strftime('%Y-%m-%d')}.html"
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(html)
             
@@ -441,5 +441,5 @@ def generate_daily_report(csv_path):
         return None
 
 if __name__ == "__main__":
-    csv_path = "prices.csv"
+    csv_path = "/home/azureuser/Python-Git-Linux_Final-Project/prices.csv"
     generate_daily_report(csv_path)
