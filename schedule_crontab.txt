@@ -29,6 +29,7 @@
 # Ainsi, le programme sera mis à jour de 9h à 18h du lundi au vendredi. 
 # Pendant les horaire de fermeture, l'application reste disponible mais la data n'est pas actualisé car les prix ne bougent plus. 
  
-*/5 9-17 * * 1-5 export PATH=$PATH:/usr/local/bin && /bin/bash /home/azureuser/Python-Git-Linux_Final-Project/program.sh >> /home/azureuser/Python-Git-Linux_Final-Project/log.txt
+*/5 9-18 * * 1-5 export PATH=$PATH:/usr/local/bin && /bin/bash /home/azureuser/Python-Git-Linux_Final-Project/program.sh >> /home/azureuser/Python-Git-Linux_Final-Project/log.txt
 
+#Génère le rapport quotidien du lundi au vendredi à 20h et l'envoie par mail.
 0 20 * * 1-5 export PATH=$PATH:/usr/local/bin && /bin/bash /home/azureuser/Python-Git-Linux_Final-Project/report.sh >> /home/azureuser/Python-Git-Linux_Final-Project/log.txt
