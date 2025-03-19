@@ -24,7 +24,7 @@ cac40-dashboard/
 │
 ├── program.sh                # Script Bash pour scraper les données et les enregistrer dans prices.csv
 │
-├── python_code.py              # Script Python pour :
+├── dash_app.py              # Script Python pour :
 │                               # - Lancer l'application Dash
 │                               # - Mettre en ligne l'application
 │
@@ -73,7 +73,7 @@ Script Bash exécuté par le **cron** pour :
 
 ---
 
-### 7. **python_code.py**
+### 7. **dash_app.py**
 Script Python central qui :
 - Lance l'**application Dash** pour visualiser les **données en temps réel**.
 - Met en ligne l'application sur la **machine virtuelle**, accessible 24h/24.
