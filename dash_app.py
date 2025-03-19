@@ -48,7 +48,10 @@ app.layout = html.Div([
 
     dcc.Interval(id='interval-component', interval=300000, n_intervals=0),
 
-    html.Div(style={'height': '40px'}),
+    #Ajouter la date de la dernière mise à jour
+    html.P(id='date-maj', style={'color': 'white', 'textAlign': 'center'}),
+
+    html.Div(style={'height': '20px'}),
 
     # Tableau des actions
     dash_table.DataTable(
@@ -175,6 +178,16 @@ app.layout = html.Div([
     'fontFamily': 'Arial'
 })
 
+# Callback pour afficher la date de la dernière mise à jour
+@app.callback(
+    Output('date-maj', 'children'),
+    [Input('interval-component', 'n_intervals')]
+)
+def afficher_date_maj(n):
+    df = lire_csv('/home/azureuser/Python-Git-Linux_Final-Project/prices.csv')
+    df['Date'] = pd.to_datetime(df['Date'])
+    return f"Dernière mise à jour : {df['Date'].max()}"
+
 @app.callback(
     Output('email-response', 'children'),
     Input('submit-email', 'n_clicks'),
@@ -245,6 +258,7 @@ def mettre_a_jour_prix(n):
 
         for action in prix_actuels.keys():
             historique = df[['Date', action]].dropna()
+            historique = historique[historique['Date'].dt.day >= historique['Date'].max().day]
             rendement = ((historique[action].iloc[-1] - historique[action].iloc[0]) / historique[action].iloc[0]) * 100
             historique['retours'] = historique[action].pct_change()
             volatilite = historique['retours'].std() * 100
@@ -273,20 +287,40 @@ def mettre_a_jour_graphique(n):
         df = lire_csv('/home/azureuser/Python-Git-Linux_Final-Project/prices.csv')
         df['Date'] = pd.to_datetime(df['Date'])
 
+        # Filtrer uniquement les jours ouvrés et horaires de marché (9h-18h)
+        df = df[(df['Date'].dt.weekday < 5) & (df['Date'].dt.hour >= 9) & (df['Date'].dt.hour < 18)]
+
         df_melted = df.melt(id_vars=['Date'], var_name='Entreprise', value_name='Prix')
 
-        # Ajout de la normalisation des prix en base 100
+        # Normalisation des prix en base 100
         df_melted['Prix Normalisé'] = df_melted.groupby("Entreprise")['Prix'].transform(lambda x: (x / x.iloc[0]) * 100)
 
-        fig = px.line(df_melted, x='Date', y='Prix Normalisé', color='Entreprise',
-                      title="Évolution normalisée des prix des actions du CAC 40",
-                      color_discrete_sequence=px.colors.qualitative.Alphabet)  # Utiliser une palette de couleurs étendue
+        df_melted['Date'] = df_melted['Date'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
-        fig.update_layout(plot_bgcolor='#001F3F', paper_bgcolor='#001F3F', font=dict(color='white'))
+
+        fig = px.line(df_melted, x='Date', y='Prix Normalisé', color='Entreprise', title="Évolution des prix normalisés")
+
+        # Ajuster l'axe X pour ne pas afficher les heures de fermeture
+        fig.update_xaxes(type='category')  
+
+        fig.update_layout(
+            plot_bgcolor='#001F3F',
+            paper_bgcolor='#001F3F',
+            font_color='white'
+        )
+
+        fig.update_xaxes(
+            tickformat="%d %b\n%Hh",  # Ex: "12 Mar\n15h"
+            tickmode='linear',
+            dtick=6 * 6,  # Affiche une date toutes les 6 heures
+            tickangle=45,  # Rotation des labels pour éviter le chevauchement
+            showgrid=True
+        )
+
 
         return fig
     except Exception as e:
-        return px.line(title=f"Erreur lors du chargement des données : {e}")
+        return px.line(title="Erreur lors du chargement des données")
 
 @app.callback(
     Output('poids-actions', 'children'),
