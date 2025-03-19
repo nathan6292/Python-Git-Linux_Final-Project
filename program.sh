@@ -1,7 +1,8 @@
 #!/bin/bash
+echo "Lancement du program"
 
 # Chemin du fichier CSV de sortie
-output_file="prices.csv"
+output_file="/home/azureuser/Python-Git-Linux_Final-Project/prices.csv"
 
 # Récupérer le contenu du fichier HTML à partir de l'URL
 file=$(curl -s "https://www.comdirect.de/inf/indizes/werte/FR0003500008")
@@ -18,18 +19,16 @@ companies=(
 )
 
 if [ ! -s "$output_file" ]; then
+	echo "" > "$output_file"
 	echo -n "Date," >> "$output_file"
 
 	# Ajouter le titres des colonnes du csv
 	for ((i=0; i<${#companies[@]}; i++)); do
     		company="${companies[$i]}"
-    		# Si ce n'est pas le dernier élément, ajouter une virgule
-    		if [ $i -ne $((${#companies[@]} - 1)) ]; then
-        		echo -n "$company," >> "$output_file"
-    		else
-        		echo "$company" >> "$output_file"  # Dernier élément sans virgule
-    		fi
+    	     	echo -n "$company," >> "$output_file"
 	done
+
+echo "CAC 40" >> "$output_file"
 fi
 
 echo -n $(date +"%Y-%m-%d %H:%M:%S,") >> "$output_file" 
@@ -46,12 +45,16 @@ for ((i=0; i<${#companies[@]}; i++)); do
     clean_price=$(echo "$price" | tr -d '.' | tr ',' '.')
 
     # Ajouter les résultats au fichier CSV
-    if [ $i -ne $((${#companies[@]} - 1)) ]; then
-        echo -n "$clean_price," >> "$output_file"
-    else
-        echo -n "$clean_price" >> "$output_file"  # Dernier élément sans virgule
-    fi
- 
+    echo -n "$clean_price," >> "$output_file"
+
+
 done
 
-echo "" >> "$output_file"
+price_cac40=$(echo "$file" | grep -oP '(?<=itemprop="price" content=")[0-9]+(\.[0-9]+)?')
+
+echo "$price_cac40" >> "$output_file"
+
+# Lancement du dash
+
+source /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/activate
+sudo /home/azureuser/Python-Git-Linux_Final-Project/mon_venv/bin/python /home/azureuser/Python-Git-Linux_Final-Project/dash_app.py

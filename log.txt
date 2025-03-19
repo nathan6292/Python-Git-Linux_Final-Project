@@ -1,0 +1,2297 @@
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathan.fleury@edu.devinci.fr
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathan.fleury@edu.devinci.fr
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à julien.gilles@edu.devinci.fr
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathan.fleury@edu.devinci.fr
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à julien.gilles@edu.devinci.fr
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathan.fleury@edu.devinci.fr
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathan.fleury@edu.devinci.fr
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathan.fleury@edu.devinci.fr
+Envoi du mail à nathanfl6292@gmail.com
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'python_code'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-12.html
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à antoine.chandeclerc@edu.devinci.fr
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-13.html
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à antoine.chandeclerc@edu.devinci.fr
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-14.html
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à antoine.chandeclerc@edu.devinci.fr
+Envoi du mail à alix.lanotte--moro@edu.devinci.fr
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-17.html
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à antoine.chandeclerc@edu.devinci.fr
+Envoi du mail à alix.lanotte--moro@edu.devinci.fr
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Rapport HTML généré avec succès: /home/azureuser/Python-Git-Linux_Final-Project/daily_report/report_2025-03-18.html
+Envoi du mail à nathanfl6292@gmail.com
+Envoi du mail à antoine.chandeclerc@edu.devinci.fr
+Envoi du mail à alix.lanotte--moro@edu.devinci.fr
+Envoi du mail à julien.gilles@edu.devinci.fr
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
+Lancement du program
+Dash is running on http://0.0.0.0:80/
+
+ * Serving Flask app 'dash_app'
+ * Debug mode: on
